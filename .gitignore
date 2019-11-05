@@ -6,5 +6,4 @@ data/tfrecords
 */__pycache__
 punkt/
 data/wordVec
-data
 model
