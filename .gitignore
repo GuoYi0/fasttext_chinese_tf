@@ -1,0 +1,10 @@
+ckpt
+script
+test.py
+data/tfrecords
+.idea
+*/__pycache__
+punkt/
+data/wordVec
+data
+model
